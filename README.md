@@ -66,7 +66,7 @@ To run this project locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/bookly_app.git
+   git clone https://github.com/omar-alammari/bookly_app.git
    cd bookly_app
    ```
 
