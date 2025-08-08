@@ -8,8 +8,8 @@ The application is built using modern architectural practices and technologies t
 
 ## 📱 Screenshots
 
-| Home Screen | Home Screen | Details Book Screen |
-|:---:|:---:|:---:|
+| Home Screen | Home Screen |
+|:---:|:---:|
 | ![Home Screen](assets/screenshots/1-home.png) | ![Details Book Screen](assets/screenshots/2-details.png) |
 
 ---
