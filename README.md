@@ -4,6 +4,16 @@ Bookly App is a Flutter application for displaying and exploring books using the
 It allows users to browse books, view details, open books in the browser, and share them with others.  
 The application is built using modern architectural practices and technologies to ensure scalability, maintainability, and performance.
 
+---
+
+## 📱 Screenshots
+
+| Home Screen | Home Screen | Details Book Screen |
+|:---:|:---:|:---:|
+| ![Home Screen](assets/screenshots/1-home.png) | ![Details Book Screen](assets/screenshots/2-details.png) |
+
+---
+
 ## 🌟 Features
 
 - **Splash Screen:** Provides a smooth user experience on startup.
@@ -15,6 +25,8 @@ The application is built using modern architectural practices and technologies t
 - **Pagination:** Incremental loading of books for better performance.
 - **Caching:** Uses Hive for local storage to reduce API requests.
 - **Attractive UI:** Clean and intuitive user interface.
+
+---
 
 ## 🚀 Technologies Used
 
@@ -53,6 +65,8 @@ lib/
 │   └── search/                # Search feature (example)
 ├── main.dart                 # Application entry point
 ```
+
+---
 
 
 ## 🖼️ Screenshots
