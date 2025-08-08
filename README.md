@@ -170,6 +170,7 @@ To run this project locally:
    ```bash
    flutter run
    ```
+---
 
 ## 👨‍💻 Usage
 
@@ -177,6 +178,8 @@ To run this project locally:
 2. **Tap a Book:** See full book details and similar suggestions.
 3. **Open Book:** If available, opens in the browser.
 4. **Share Book:** Share with friends or others.
+
+---
 
 ## 🤝 Contributing
 
